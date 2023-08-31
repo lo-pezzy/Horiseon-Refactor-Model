@@ -1,5 +1,6 @@
 # Horiseon-Refactor-Model
 This is my first try at cleaning up the html code.
+
 # What I Contributed
 I grouped the elements by adding a comment under section of code its assigned to first, this helped me personally to find things easier.
 
@@ -12,3 +13,7 @@ Finally I changed several div tags to more appriopriate tags such as nav, sectio
 # What I Learned
 I learned that it is important to keep the code clean and organized so that it is easier to read and understand. I also learned that it is important to use the correct tags for the correct elements.
 
+# Link to Website
+<img width="1922" alt="2023-08-31" src="https://github.com/lo-pezzy/Horiseon-Refactor-Model/assets/127700204/9d9d03f8-2a9e-4d47-8cfa-2d56118454b1">
+
+https://lo-pezzy.github.io/Horiseon-Refactor-Model/
